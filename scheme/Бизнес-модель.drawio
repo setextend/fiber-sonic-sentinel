@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="4gjqxk1jn7rgFoJYAiv0">
+    <mxGraphModel dx="856" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fuuEHXOkqaevGBQp1YBD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;fontSize=14;borderRadius=8;" value="&lt;b&gt;&lt;font size=&quot;5&quot;&gt;&amp;nbsp;СТОИМОСТЬ СЕРИЙНОГО РАЗВЕРТЫВАНИЯ: ~225 000 руб. / 1 км СЕТИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Включает 1000 метров ВОЛС, 10 сенсорных узлов (шаг 100 м) и монтажные работы на готовых опорах ЛЭП" vertex="1">
+          <mxGeometry height="70" width="1020" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fuuEHXOkqaevGBQp1YBD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=16;borderRadius=12;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot;&gt;БЮДЖЕТ НИОКР&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;4 500 000 рублей&lt;/b&gt;&lt;br&gt;&lt;br&gt;Сборка 5 опытных узлов с поворотным механизмом самоочистки, написание DSP-фильтров (50 Гц) и тесты под действующей ЛЭП в климатической камере." vertex="1">
+          <mxGeometry height="260" width="300" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fuuEHXOkqaevGBQp1YBD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=16;borderRadius=12;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot;&gt;&amp;nbsp;ДВОЙНОЕ НАЗНАЧЕНИЕ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Единая инфраструктура коммерциализируется сразу на двух рынках:&lt;br&gt;&lt;br&gt;• &lt;b&gt;Безопасность:&lt;/b&gt; Защита ЛЭП ПАО «Россети» от скрытых БПЛА.&lt;br&gt;• &lt;b&gt;Авиация:&lt;/b&gt; Продажа живого 3D-метеокоридора для БПЛА и дирижаблей." vertex="1">
+          <mxGeometry height="260" width="300" x="420" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fuuEHXOkqaevGBQp1YBD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=16;borderRadius=12;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot;&gt;&amp;nbsp;РЫНКИ НТИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Проект полностью закрывает ключевые дорожные карты Национальной технологической инициативы:&lt;br&gt;&lt;br&gt;• &lt;b&gt;AeroNet:&lt;/b&gt; Навигация беспилотников.&lt;br&gt;• &lt;b&gt;SafeNet &amp;amp; SmartNet:&lt;/b&gt; Безопасность и умная промышленная IoT-сеть." vertex="1">
+          <mxGeometry height="260" width="300" x="780" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fuuEHXOkqaevGBQp1YBD-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;fontColor=#212529;strokeColor=#212529;strokeWidth=1;dashed=1;fontSize=14;borderRadius=6;" value="Ищем содействия АСИ для организации пилотного тестирования на инфраструктуре ПАО «Россети»" vertex="1">
+          <mxGeometry height="50" width="1020" x="60" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

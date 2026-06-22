@@ -1,0 +1,37 @@
+<mxGraphModel dx="1037" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Блок 1: Опора ЛЭП -->
+    <mxCell id="pole" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot; size=&quot;4&quot;&gt;⚡ ОПОРА ЛЭП&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Готовая наземная инфраструктура. Шаг ~100 метров. Прямое подключение питания." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="60" y="200" width="220" height="180" as="geometry" />
+    </mxCell>
+    
+    <!-- Блок 2: Сенсорный узел с переворотом -->
+    <mxCell id="sensor" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot; size=&quot;4&quot;&gt;🤖 СЕНСОРНЫЙ БОКС&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Акустический сонар&lt;br&gt;• Метео-чипы&lt;br&gt;• &lt;b&gt;Механизм переворота (самоочистка от наледи и снега)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="360" y="200" width="240" height="180" as="geometry" />
+    </mxCell>
+    
+    <!-- Блок 3: Оптоволокно -->
+    <mxCell id="fiber" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot; size=&quot;4&quot;&gt;🚀 МАГИСТРАЛЬ ВОЛС&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Самонесущий кабель поверх проводов. Скорость света. 100% защита от электромагнитных помех ЛЭП." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="680" y="200" width="220" height="180" as="geometry" />
+    </mxCell>
+    
+    <!-- Блок 4: Центральный ИИ -->
+    <mxCell id="ai" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#FFFFFF&quot; size=&quot;4&quot;&gt;🧠 ЦЕНТРАЛЬНЫЙ ИИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;• Фильтрация гула 50 Гц&lt;br&gt;• TDOA-триангуляция дронов&lt;br&gt;• Живой 3D-метеокоридор&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="960" y="200" width="220" height="180" as="geometry" />
+    </mxCell>
+    
+    <!-- Стрелки -->
+    <mxCell id="edge1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;" edge="1" parent="1" source="pole" target="sensor">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="edge2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;" edge="1" parent="1" source="sensor" target="fiber">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="edge3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;" edge="1" parent="1" source="fiber" target="ai">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>

@@ -1,0 +1,31 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="ekOolKhuuE07utgYslS1">
+    <mxGraphModel dx="1223" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lHnuUm1rz5h9z0IJFcyj-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;fontSize=16;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot;&gt;&amp;nbsp;ОПОРА ЛЭП&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Готовая наземная инфраструктура. Шаг ~100 метров. Прямое подключение питания." vertex="1">
+          <mxGeometry height="180" width="220" x="60" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lHnuUm1rz5h9z0IJFcyj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;fontSize=16;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot;&gt;&amp;nbsp;СЕНСОРНЫЙ БОКС&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Акустический сонар&lt;br&gt;• Метео-чипы&lt;br&gt;• &lt;b&gt;Механизм переворота (самоочистка от наледи и снега)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="180" width="240" x="310" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lHnuUm1rz5h9z0IJFcyj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;fontSize=16;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot;&gt;МАГИСТРАЛЬ ВОЛС&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Самонесущий кабель поверх проводов. Скорость света. 100% защита от электромагнитных помех ЛЭП." vertex="1">
+          <mxGeometry height="180" width="220" x="580" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lHnuUm1rz5h9z0IJFcyj-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;fontSize=16;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&amp;nbsp;ЦЕНТРАЛЬНЫЙ ИИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;• Фильтрация гула 50 Гц&lt;br&gt;• TDOA-триангуляция дронов&lt;br&gt;• Живой 3D-метеокоридор&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="220" x="827" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lHnuUm1rz5h9z0IJFcyj-5" edge="1" parent="1" source="lHnuUm1rz5h9z0IJFcyj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;fontSize=16;" target="lHnuUm1rz5h9z0IJFcyj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lHnuUm1rz5h9z0IJFcyj-6" edge="1" parent="1" source="lHnuUm1rz5h9z0IJFcyj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;fontSize=16;" target="lHnuUm1rz5h9z0IJFcyj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lHnuUm1rz5h9z0IJFcyj-7" edge="1" parent="1" source="lHnuUm1rz5h9z0IJFcyj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;fontSize=16;" target="lHnuUm1rz5h9z0IJFcyj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
