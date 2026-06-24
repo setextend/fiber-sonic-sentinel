@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="987iB2_Doyfw2OSaiEJY">
+    <mxGraphModel dx="856" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2G7B7yZl3eTZuWnQNlUD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;fontSize=18;borderRadius=8;" value="&lt;b&gt;СЕГМЕНТ ИЗ 60 СЕНСОРНЫХ БЛОКОВ&lt;/b&gt;&lt;br&gt;Протяженность коридора ~6 км. На каждом столбе пассивный оптический сплиттер." vertex="1">
+          <mxGeometry height="160" width="340" x="60" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2G7B7yZl3eTZuWnQNlUD-2" parent="1" style="shape=rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;fontSize=18;" value="&lt;b&gt;1 ЖИЛА ВОЛС&lt;/b&gt;&lt;br&gt;(Технология PON)&lt;br&gt;Сквозное вещание «сырого» аудиопотока" vertex="1">
+          <mxGeometry height="240" width="260" x="440" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2G7B7yZl3eTZuWnQNlUD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;fontSize=18;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;ИИ-СЕРВЕР ПОДСТАНЦИИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;• Развертывание с шагом 30–50 км&lt;br&gt;• Спектральная ИИ-очистка шумов&lt;br&gt;• Расчет TDOA-координат&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="340" x="760" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2G7B7yZl3eTZuWnQNlUD-4" edge="1" parent="1" source="2G7B7yZl3eTZuWnQNlUD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;fontSize=18;" target="2G7B7yZl3eTZuWnQNlUD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2G7B7yZl3eTZuWnQNlUD-5" edge="1" parent="1" source="2G7B7yZl3eTZuWnQNlUD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;fontSize=18;" target="2G7B7yZl3eTZuWnQNlUD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

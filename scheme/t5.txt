@@ -1,0 +1,16 @@
+<mxGraphModel dx="1037" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Карточка 1: Низковольтные ЛЭП -->
+    <mxCell id="lep_low" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot; size=&quot;4&quot;&gt;🏡 НИЗКОВОЛЬТНЫЕ ЛЭП (0.4 – 10 кВ)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• &lt;b&gt;Локация:&lt;/b&gt; Вдоль дорог, поселков, СНТ.&lt;br&gt;• &lt;b&gt;Шум 50 Гц:&lt;/b&gt; Полностью отсутствует.&lt;br&gt;• &lt;b&gt;Специфика:&lt;/b&gt; Применяются ультрабюджетные блоки для перехвата малых FPV-дронов на сверхнизких высотах." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=14;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="120" y="180" width="400" height="240" as="geometry" />
+    </mxCell>
+    
+    <!-- Карточка 2: Высоковольтные ЛЭП -->
+    <mxCell id="lep_high" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot; size=&quot;4&quot;&gt;🌲 ВЫСОКОВОЛЬТНЫЕ ЛЭП (110 – 500 кВ)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• &lt;b&gt;Локация:&lt;/b&gt; Магистральные трассы в тайге.&lt;br&gt;• &lt;b&gt;Шум 50 Гц:&lt;/b&gt; Сильный постоянный гул.&lt;br&gt;• &lt;b&gt;Специфика:&lt;/b&gt; Требуется ИИ-фильтрация спектра на сервере и бесконтактный электромагнитный токосъем высокой мощности." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=center;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=14;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="640" y="180" width="400" height="240" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>

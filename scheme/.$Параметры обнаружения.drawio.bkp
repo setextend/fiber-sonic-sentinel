@@ -1,0 +1,19 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="C152mf8FuL5dfdtAgH-h">
+    <mxGraphModel dx="856" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lLEc4gxCW7boVLk2Zaqj-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;spacingLeft=20;fontSize=14;borderRadius=8;" value="&lt;b&gt;🛸 Малые FPV / DJI Mavic&lt;/b&gt;&lt;br&gt;Дальность устойчивой детекции: &lt;b&gt;300 – 500 метров&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="600" x="120" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lLEc4gxCW7boVLk2Zaqj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;spacingLeft=20;fontSize=14;borderRadius=8;" value="&lt;b&gt;✈️ Средние разведчики (тип «Орлан»)&lt;/b&gt;&lt;br&gt;Дальность устойчивой детекции: &lt;b&gt;800 – 1 200 метров&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="750" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lLEc4gxCW7boVLk2Zaqj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;align=left;spacingLeft=20;fontSize=14;borderRadius=8;" value="&lt;b&gt;🚀 Крупные БПЛА-самолеты с ДВС&lt;/b&gt;&lt;br&gt;Дальность устойчивой детекции: &lt;b&gt;до 2 000 – 3 000 метров&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="920" x="120" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

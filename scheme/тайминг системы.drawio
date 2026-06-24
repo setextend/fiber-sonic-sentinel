@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="VlosDwAZA0WgFaNob9JO">
+    <mxGraphModel dx="856" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;fontSize=14;borderRadius=8;" value="&lt;b&gt;&lt;font size=&quot;5&quot;&gt;ТАЙМИНГ СИСТЕМЫ И КОНТУР ПЕРЕХВАТА БПЛА&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Временная шкала от момента первого звукового контакта до физического уничтожения нарушителя" vertex="1">
+          <mxGeometry height="70" width="1020" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;fontSize=13;borderRadius=8;" value="&lt;b&gt;1. ДЕТЕКЦИЯ&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0A58CA&quot;&gt;&lt;b&gt;1.0 сек&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Фиксация звука сонаром ЛЭП. Передача по ВОЛС. Очистка шума 50 Гц." vertex="1">
+          <mxGeometry height="100" width="220" x="60" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;fontSize=13;borderRadius=8;" value="&lt;b&gt;2. ТРИАНГУЛЯЦИЯ&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0A58CA&quot;&gt;&lt;b&gt;1.5 сек&lt;/b&gt;&lt;/font&gt;&lt;br&gt;ИИ-сервер вычисляет 3D-координаты, скорость и высоту дрона по TDOA." vertex="1">
+          <mxGeometry height="100" width="220" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;fontSize=13;borderRadius=8;" value="&lt;b&gt;3. ВЕРИФИКАЦИЯ&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0A58CA&quot;&gt;&lt;b&gt;3.5 сек&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Автоматическое наведение поворотных ИИ-камер на цель. Подтверждение угрозы." vertex="1">
+          <mxGeometry height="100" width="220" x="580" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;fontSize=13;borderRadius=8;" value="&lt;b&gt;4. ЦЕЛЕУКАЗАНИЕ&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0A58CA&quot;&gt;&lt;b&gt;4.0 сек&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Мгновенная выдача точного азимута на турели защиты и планшеты перехвата." vertex="1">
+          <mxGeometry height="100" width="220" x="840" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;fontSize=14;align=left;spacingLeft=15;borderRadius=12;" value="&lt;b&gt;&amp;nbsp;ВАРИАНТ А: СТАЦИОНАРНАЯ ТУРЕЛЬ (РЭБ / ОГОНЬ / ЗАПУСК ДРОНА-ПЕРЕХВАТЧИКА)&lt;/b&gt;&lt;br&gt;Полное автоматическое уничтожение цели в течение &lt;b&gt;15 – 20 секунд&lt;/b&gt; с момента подлета." vertex="1">
+          <mxGeometry height="60" width="1020" x="60" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;fontSize=14;align=left;spacingLeft=15;borderRadius=12;" value="&lt;b&gt;ВАРИАНТ Б: ВЫЕЗДНОЙ МОБИЛЬНЫЙ РАСЧЕТ ОХРАНЫ&lt;/b&gt;&lt;br&gt;Перехват на опережение по технологическим дорогам вдоль ЛЭП. Ликвидация антидроновым ружьем за &lt;b&gt;3 минуты&lt;/b&gt;." vertex="1">
+          <mxGeometry height="60" width="1020" x="60" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-8" edge="1" parent="1" source="Sjoz_kzyMTPhKIuq3549-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=2;endArrow=block;" target="Sjoz_kzyMTPhKIuq3549-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-9" edge="1" parent="1" source="Sjoz_kzyMTPhKIuq3549-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=2;endArrow=block;" target="Sjoz_kzyMTPhKIuq3549-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjoz_kzyMTPhKIuq3549-10" edge="1" parent="1" source="Sjoz_kzyMTPhKIuq3549-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=2;endArrow=block;" target="Sjoz_kzyMTPhKIuq3549-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

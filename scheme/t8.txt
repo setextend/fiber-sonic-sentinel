@@ -1,0 +1,26 @@
+<mxGraphModel dx="1037" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Шапка слайда -->
+    <mxCell id="title_block" value="&lt;b&gt;&lt;font size=&quot;5&quot;&gt;🚀 МАСШТАБИРОВАНИЕ ПРОЕКТА НА ПРИМЕРЕ НИЖЕГОРОДСКОЙ ОБЛАСТИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Оценка пилотного развертывания сети вокруг Нижнего Новгорода и ключевых магистралей региона" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;fontSize=14;borderRadius=8;" vertex="1" parent="1">
+      <mxGeometry x="60" y="40" width="1020" height="70" as="geometry" />
+    </mxCell>
+    
+    <!-- Карточка 1: Объем сети -->
+    <mxCell id="metrics_card" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot; size=&quot;4&quot;&gt;📊 ОБЪЕМ ПИЛОТНОЙ СЕТИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• &lt;b&gt;Протяженность коридоров:&lt;/b&gt; &lt;b&gt;500 км&lt;/b&gt; (кольцо вокруг Нижнего Новгорода + выходы на трассы М-7 и М-12).&lt;br&gt;• &lt;b&gt;Количество опор ЛЭП:&lt;/b&gt; &lt;b&gt;5 000 столбов&lt;/b&gt; (шаг 100 м).&lt;br&gt;• &lt;b&gt;Инфраструктурная база:&lt;/b&gt; Сети филиала «Нижновэнерго» (ПАО «Россети»)." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=14;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="60" y="150" width="480" height="200" as="geometry" />
+    </mxCell>
+    
+    <!-- Карточка 2: Расчет стоимости -->
+    <mxCell id="cost_card" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot; size=&quot;4&quot;&gt;💰 БЮДЖЕТ РАЗВЕРТЫВАНИЯ: ~125 млн руб.&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• &lt;b&gt;Оборудование (5000 блоков):&lt;/b&gt; 60 млн руб. (сонары, метеочипы, токосъем).&lt;br&gt;• &lt;b&gt;Оптика и монтаж (ВОЛС):&lt;/b&gt; 30 млн руб. (подвес кабеля, сплиттеры).&lt;br&gt;• &lt;b&gt;ИИ-серверы и базы данных:&lt;/b&gt; 15 млн руб. (10 серверных шкафов на подстанциях).&lt;br&gt;• &lt;b&gt;Установка и пусконаладка:&lt;/b&gt; 20 млн руб. (наземные бригады, софт)." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=14;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="600" y="150" width="480" height="200" as="geometry" />
+    </mxCell>
+    
+    <!-- Нижний блок: Годовое обслуживание -->
+    <mxCell id="support_block" value="&lt;b&gt;🛠️ СТОИМОСТЬ ПОДДЕРЖКИ И ТЕХОБСЛУЖИВАНИЯ (ЕЖЕГОДНО): ~12 млн руб.&lt;/b&gt;&lt;br&gt;Включает облачную инфраструктуру баз данных, обновление ИИ-моделей фильтрации шума, работу Единого диспетчерского центра детекции БПЛА в регионе и выездные бригады. Благодаря системе переворачивания боксов для самоочистки от снега затраты на физическое обслуживание снижены на 70%." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;fontColor=#212529;strokeColor=#212529;strokeWidth=1;dashed=1;fontSize=13;borderRadius=6;" vertex="1" parent="1">
+      <mxGeometry x="60" y="380" width="1020" height="80" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>

@@ -1,0 +1,21 @@
+<mxGraphModel dx="1037" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Бар 1: Квадрокоптеры -->
+    <mxCell id="uav_small" value="&lt;b&gt;🛸 Малые FPV / DJI Mavic&lt;/b&gt;&lt;br&gt;Дальность устойчивой детекции: &lt;b&gt;300 – 500 метров&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;spacingLeft=20;fontSize=14;borderRadius=8;" vertex="1" parent="1">
+      <mxGeometry x="120" y="140" width="600" height="60" as="geometry" />
+    </mxCell>
+    
+    <!-- Бар 2: Средние БПЛА -->
+    <mxCell id="uav_mid" value="&lt;b&gt;✈️ Средние разведчики (тип «Орлан»)&lt;/b&gt;&lt;br&gt;Дальность устойчивой детекции: &lt;b&gt;800 – 1 200 метров&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;spacingLeft=20;fontSize=14;borderRadius=8;" vertex="1" parent="1">
+      <mxGeometry x="120" y="240" width="750" height="60" as="geometry" />
+    </mxCell>
+    
+    <!-- Бар 3: Крупные ДВС -->
+    <mxCell id="uav_large" value="&lt;b&gt;🚀 Крупные БПЛА-самолеты с ДВС&lt;/b&gt;&lt;br&gt;Дальность устойчивой детекции: &lt;b&gt;до 2 000 – 3 000 метров&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;align=left;spacingLeft=20;fontSize=14;borderRadius=8;" vertex="1" parent="1">
+      <mxGeometry x="120" y="340" width="920" height="60" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>

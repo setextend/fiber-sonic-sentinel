@@ -1,0 +1,21 @@
+<mxGraphModel dx="1037" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Заголовок слайда -->
+    <mxCell id="header" value="&lt;b&gt;&lt;font size=&quot;5&quot;&gt;🔄 МУЛЬТИСЕНСОРНАЯ МАТРИЦА: АКУСТИКА И МЕТЕОМОНИТОРИНГ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Разделение функций одного физического узла для двух независимых рынков гражданской и технологической безопасности" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;fontSize=14;borderRadius=8;" vertex="1" parent="1">
+      <mxGeometry x="60" y="40" width="1020" height="70" as="geometry" />
+    </mxCell>
+    
+    <!-- ЛЕВАЯ СТОРОНА: ОБНАРУЖЕНИЕ БПЛА (АКУСТИКА) -->
+    <mxCell id="left_card" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot; size=&quot;4&quot;&gt;🔊 АКУСТИЧЕСКОЕ ОБНАРУЖЕНИЕ БПЛА&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• &lt;b&gt;Пассивный перехват:&lt;/b&gt; Система ничего не излучает в эфир. Ее невозможно запеленговать или заглушить средствами РЭБ БПЛА.&lt;br&gt;&lt;br&gt;• &lt;b&gt;ИИ-вычитание шумов:&lt;/b&gt; Центральный сервер программно «стирает» постоянный гул проводов ЛЭП (50 Гц) и хаотичный шум ветра.&lt;br&gt;&lt;br&gt;• &lt;b&gt;Спектральный анализ:&lt;/b&gt; Нейросеть распознает уникальную частотную сигнатуру («отпечаток звука») лопастей и моторов любых дронов.&lt;br&gt;&lt;br&gt;• &lt;b&gt;Точная TDOA-триангуляция:&lt;/b&gt; По микросекундной задержке звука на соседних столбах ИИ мгновенно вычисляет 3D-координаты, скорость и высоту цели." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=14;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="60" y="140" width="490" height="340" as="geometry" />
+    </mxCell>
+    
+    <!-- ПРАВАЯ СТОРОНА: ПОГОДА И ОНЛАЙН-МОНИТОРИНГ -->
+    <mxCell id="right_card" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot; size=&quot;4&quot;&gt;🌤️ СВЕРХТОЧНЫЙ МЕТЕОМОНИТОРИНГ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• &lt;b&gt;Твердотельные чипы:&lt;/b&gt; Использование микро-датчиков без подвижных деталей. Ветер измеряется ультразвуком, что исключает поломки.&lt;br&gt;&lt;br&gt;• &lt;b&gt;Живой 3D-метеокоридор:&lt;/b&gt; Шаг в 100 метров дает непрерывный профиль приземного ветра, влажности и давления вдоль всего маршрута.&lt;br&gt;&lt;br&gt;• &lt;b&gt;Контроль гололедообразования:&lt;/b&gt; Онлайн-замер точки росы и температуры позволяет ПАО «Россети» выявлять обледенение проводов на ранней стадии.&lt;br&gt;&lt;br&gt;• &lt;b&gt;Навигация для авиации:&lt;/b&gt; Потоковые данные мгновенно передаются по ВОЛС коммерческим БПЛА доставки и круизным дирижаблям для обхода шквалов." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=14;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="590" y="140" width="490" height="340" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>

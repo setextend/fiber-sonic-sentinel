@@ -1,0 +1,29 @@
+<mxGraphModel dx="1037" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Линия 60 блоков -->
+    <mxCell id="blocks" value="&lt;b&gt;📡 СЕГМЕНТ ИЗ 60 СЕНСОРНЫХ БЛОКОВ&lt;/b&gt;&lt;br&gt;Протяженность коридора ~6 км. На каждом столбе пассивный оптический сплиттер." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;fontSize=14;borderRadius=8;" vertex="1" parent="1">
+      <mxGeometry x="60" y="200" width="340" height="100" as="geometry" />
+    </mxCell>
+    
+    <!-- Кабель ВОЛС -->
+    <mxCell id="cable" value="&lt;b&gt;🧵 1 ЖИЛА ВОЛС&lt;/b&gt;&lt;br&gt;(Технология PON)&lt;br&gt;Сквозное вещание «сырого» аудиопотока" style="shape=rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+      <mxGeometry x="480" y="160" width="200" height="180" as="geometry" />
+    </mxCell>
+    
+    <!-- Сервер на подстанции -->
+    <mxCell id="server" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#FFFFFF&quot; size=&quot;4&quot;&gt;🖥️ ИИ-СЕРВЕР ПОДСТАНЦИИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;• Развертывание с шагом 30–50 км&lt;br&gt;• Спектральная ИИ-очистка шумов&lt;br&gt;• Расчет TDOA-координат&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;align=center;verticalAlign=top;spacingLeft=10;spacingRight=10;borderRadius=12;" vertex="1" parent="1">
+      <mxGeometry x="760" y="160" width="340" height="180" as="geometry" />
+    </mxCell>
+    
+    <!-- Стрелки связи -->
+    <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;" edge="1" parent="1" source="blocks" target="cable">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#0A58CA;strokeWidth=3;endArrow=block;" edge="1" parent="1" source="cable" target="server">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>

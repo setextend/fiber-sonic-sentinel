@@ -1,0 +1,22 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="GSkmMVQHwkEJYwOPDLhR">
+    <mxGraphModel dx="856" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZWWhSQEYeBIvFAl6Hku5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0A58CA;fontColor=#FFFFFF;strokeColor=#0A58CA;strokeWidth=1;fontSize=14;borderRadius=8;" value="&lt;b&gt;&lt;font size=&quot;5&quot;&gt;МАСШТАБИРОВАНИЕ ПРОЕКТА НА ПРИМЕРЕ НИЖЕГОРОДСКОЙ ОБЛАСТИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Оценка пилотного развертывания сети вокруг Нижнего Новгорода и ключевых магистралей региона&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="1020" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWWhSQEYeBIvFAl6Hku5-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=18;borderRadius=12;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot;&gt;ОБЪЕМ ПИЛОТНОЙ СЕТИ&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• &lt;b&gt;Протяженность коридоров:&lt;/b&gt; &lt;b&gt;500 км&lt;/b&gt; (кольцо вокруг Нижнего Новгорода + выходы на трассы М-7 и М-12).&lt;br&gt;• &lt;b&gt;Количество опор ЛЭП:&lt;/b&gt; &lt;b&gt;5 000 столбов&lt;/b&gt; (шаг 100 м).&lt;br&gt;• &lt;b&gt;Инфраструктурная база:&lt;/b&gt; Сети филиала «Нижновэнерго» (ПАО «Россети»)." vertex="1">
+          <mxGeometry height="250" width="480" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWWhSQEYeBIvFAl6Hku5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#212529;strokeColor=#0A58CA;strokeWidth=2;align=left;verticalAlign=top;spacingLeft=15;spacingRight=15;fontSize=18;borderRadius=12;" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0A58CA&quot;&gt;БЮДЖЕТ РАЗВЕРТЫВАНИЯ: ~125 млн руб.&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;• &lt;b&gt;Оборудование (5000 блоков):&lt;/b&gt; 60 млн руб. (сонары, метеочипы, токосъем).&lt;br&gt;• &lt;b&gt;Оптика и монтаж (ВОЛС):&lt;/b&gt; 30 млн руб. (подвес кабеля, сплиттеры).&lt;br&gt;• &lt;b&gt;ИИ-серверы и базы данных:&lt;/b&gt; 15 млн руб. (10 серверных шкафов на подстанциях).&lt;br&gt;• &lt;b&gt;Установка и пусконаладка:&lt;/b&gt; 20 млн руб. (наземные бригады, софт)." vertex="1">
+          <mxGeometry height="250" width="520" x="560" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWWhSQEYeBIvFAl6Hku5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;fontColor=#212529;strokeColor=#212529;strokeWidth=1;dashed=1;fontSize=13;borderRadius=6;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;СТОИМОСТЬ ПОДДЕРЖКИ И ТЕХОБСЛУЖИВАНИЯ (ЕЖЕГОДНО): ~12 млн руб.&lt;/b&gt;&lt;br&gt;Включает облачную инфраструктуру баз данных, обновление ИИ-моделей фильтрации шума, работу Единого диспетчерского центра детекции БПЛА в регионе и выездные бригады. Благодаря системе переворачивания боксов для самоочистки от снега затраты на физическое обслуживание снижены на 70%.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="1020" x="60" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
