@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="IRaFS5bw3pVXUsxdPFJF">
+    <mxGraphModel dx="856" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_uZshpHTAVfC0IjWehTk-24" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="0 мм" vertex="1">
+          <mxGeometry height="20" width="40" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-25" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="40 мм" vertex="1">
+          <mxGeometry height="20" width="40" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-26" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="43 мм" vertex="1">
+          <mxGeometry height="20" width="40" x="40" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-27" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="73 мм" vertex="1">
+          <mxGeometry height="20" width="40" x="40" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-28" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="75 мм" vertex="1">
+          <mxGeometry height="20" width="40" x="40" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-29" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF0000;" value="105 мм" vertex="1">
+          <mxGeometry height="20" width="50" x="30" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=1;strokeColor=#FF0000;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="440" as="sourcePoint" />
+            <mxPoint x="280" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-31" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF0000;fontStyle=1;" value="ЦЕНТРАЛЬНАЯ ОСЬ ВРАЩЕНИЯ СЕНСОРНОГО БЛОКА" vertex="1">
+          <mxGeometry height="20" width="300" x="130" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;align=center;fontSize=11;fontStyle=1;" value="НЕПОДВИЖНЫЙ ЦИЛИHДРИЧЕСКИЙ ВВОД&lt;br&gt;(Оптический SFP-модуль, ввод питания от катушки ЛЭП)" vertex="1">
+          <mxGeometry height="80" width="300" x="130" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=10;fontStyle=1;" value="УПОРНЫЙ ПОДШИПНИК И СКОЛЬЗЯЩИЙ КОНТАКТ (SLIP RING)" vertex="1">
+          <mxGeometry height="25" width="260" x="150" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="215" width="360" x="100" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=11;" value="ШАГОВЫЙ МИКРО-МОТОР ПРИВОДА (типа NEMA 11)&lt;br&gt;[Вращение корпуса на 360° и сброс наледи]" vertex="1">
+          <mxGeometry height="60" width="240" x="160" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeColor=none;fontColor=#FFFFFF;fontSize=9;fontStyle=1;" value="ВНУТРЕННЯЯ ЗВУКО-ВИБРОИЗОЛЯЦИОННАЯ ПЕРЕГОРОДКА (2 мм)" vertex="1">
+          <mxGeometry height="20" width="356" x="102" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=10;fontColor=#333333;" value="АКБ №1&lt;br&gt;Резерв&lt;br&gt;LiFePO4&lt;br&gt;+Подогрев" vertex="1">
+          <mxGeometry height="90" width="60" x="110" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=10;fontColor=#333333;" value="АКБ №2&lt;br&gt;Резерв&lt;br&gt;LiFePO4&lt;br&gt;+Подогрев" vertex="1">
+          <mxGeometry height="90" width="60" x="390" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=11;fontStyle=1;" value="ГЛАВНАЯ ПЛАТА ОБРАБОТКИ ДАННЫХ&lt;br&gt;(Микроконтроллер, АЦП, PON-медиаконвертер)&lt;br&gt;&lt;br&gt;[Габариты: 80 х 80 мм]" vertex="1">
+          <mxGeometry height="75" width="190" x="185" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=9;" value="MEMS Микрофон 1&lt;br&gt;(Угол фронт)" vertex="1">
+          <mxGeometry height="30" width="70" x="110" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=9;" value="MEMS Микрофон 2&lt;br&gt;(Угол тыл)" vertex="1">
+          <mxGeometry height="30" width="70" x="380" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="_uZshpHTAVfC0IjWehTk-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=9;fontStyle=1;" value="МЕТЕОЧИП&lt;br&gt;(Давление / Температура / Влажность)&lt;br&gt;+ Мембрана Gore-Tex" vertex="1">
+          <mxGeometry height="30" width="170" x="195" y="345" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

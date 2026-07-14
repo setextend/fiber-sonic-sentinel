@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="EPIW5v-4WGkHL0HSTL3Z">
+    <mxGraphModel dx="856" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BAC8D3;strokeColor=#23445D;fontStyle=1;fontSize=12;" value="ОПОРА ЛЭП" vertex="1">
+          <mxGeometry height="120" width="100" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontStyle=1;fontSize=11;align=center;" value="СТОЙКА ВЫНОСА (ФЕРМА)" vertex="1">
+          <mxGeometry height="40" width="280" x="140" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-3" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=1;strokeColor=#FF0000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="260" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-4" parent="1" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FF0000;fontStyle=1;" value="350 мм" vertex="1">
+          <mxGeometry height="20" width="60" x="250" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;dashed=1;fontColor=#FF0000;fontStyle=1;fontSize=10;verticalAlign=top;" value="НЕПОДВИЖНЫЙ КОРПУС" vertex="1">
+          <mxGeometry height="120" width="110" x="420" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-6" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=1;strokeColor=#FF0000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="140" as="sourcePoint" />
+            <mxPoint x="530" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-7" parent="1" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF0000;fontStyle=1;" value="110 мм" vertex="1">
+          <mxGeometry height="20" width="50" x="450" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=10;" value="Оптический SFP" vertex="1">
+          <mxGeometry height="20" width="90" x="430" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=10;fontStyle=1;" value="ДВИГАТЕЛЬ + АКБ" vertex="1">
+          <mxGeometry height="30" width="90" x="430" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=9;" value="Slip Ring" vertex="1">
+          <mxGeometry height="20" width="50" x="450" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=9;fontStyle=1;verticalAlign=middle;" value="Лабиринтный зонтик" vertex="1">
+          <mxGeometry height="15" width="70" x="440" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=1;strokeColor=#FF0000;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="475" y="380" as="sourcePoint" />
+            <mxPoint x="475" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=4;strokeColor=#333333;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="475" y="225" as="sourcePoint" />
+            <mxPoint x="550" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=2;fontStyle=1;fontSize=11;align=center;verticalAlign=middle;" value="ПОДВИЖНАЯ СЕНСОРНАЯ ПАНЕЛЬ" vertex="1">
+          <mxGeometry height="220" width="80" x="550" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-15" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=1;strokeColor=#FF0000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="90" as="sourcePoint" />
+            <mxPoint x="630" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-16" parent="1" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF0000;fontStyle=1;" value="150 мм" vertex="1">
+          <mxGeometry height="20" width="50" x="565" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#107293;fontSize=9;" value="Мик В1" vertex="1">
+          <mxGeometry height="30" width="30" x="555" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#107293;fontSize=9;" value="Мик В2" vertex="1">
+          <mxGeometry height="30" width="30" x="595" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=9;" value="Мик Н1" vertex="1">
+          <mxGeometry height="30" width="30" x="555" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=9;" value="Мик Н2" vertex="1">
+          <mxGeometry height="30" width="30" x="595" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=9;fontStyle=1;" value="МЕТЕО" vertex="1">
+          <mxGeometry height="30" width="50" x="560" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNgT0G2YsRqz4CG1yyj-22" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#666666;" value="СХЕМА КОМПОНОВКИ УЗЛА FSS С ТОЧНЫМИ РАЗМЕРАМИ (ВИД СВЕРХУ)" vertex="1">
+          <mxGeometry height="30" width="450" x="160" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

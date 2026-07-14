@@ -1,0 +1,91 @@
+<mxGraphModel dx="1024" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Линейка высот (Левая шкала) -->
+    <mxCell id="scale_0" value="0 мм" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="40" y="40" width="40" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="scale_40" value="40 мм" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="40" y="120" width="40" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="scale_43" value="43 мм" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="40" y="145" width="40" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="scale_73" value="73 мм" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="40" y="225" width="40" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="scale_75" value="75 мм" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="40" y="245" width="40" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="scale_105" value="105 мм" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+      <mxGeometry x="30" y="340" width="50" height="20" as="geometry" />
+    </mxCell>
+    
+    <!-- Центральная ось вращения -->
+    <mxCell id="axis_line" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;strokeColor=#FF0000;dashed=1;" edge="1" parent="1">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="280" y="440" as="sourcePoint" />
+        <mxPoint x="280" y="20" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="axis_text" value="ЦЕНТРАЛЬНАЯ ОСЬ ВРАЩЕНИЯ СЕНСОРНОГО БЛОКА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF0000;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="130" y="450" width="300" height="20" as="geometry" />
+    </mxCell>
+
+    <!-- БЛОК 1: Неподвижное основание -->
+    <mxCell id="block_base" value="НЕПОДВИЖНЫЙ ЦИЛИHДРИЧЕСКИЙ ВВОД&lt;br&gt;(Оптический SFP-модуль, ввод питания от катушки ЛЭП)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;align=center;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="130" y="40" width="300" height="80" as="geometry" />
+    </mxCell>
+    
+    <!-- БЛОК 2: Подшипник и Slip Ring -->
+    <mxCell id="block_slipring" value="УПОРНЫЙ ПОДШИПНИК И СКОЛЬЗЯЩИЙ КОНТАКТ (SLIP RING)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="150" y="120" width="260" height="25" as="geometry" />
+    </mxCell>
+
+    <!-- ВНЕШНИЙ ПОВОРОТНЫЙ КОРПУС -->
+    <mxCell id="outer_case" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="100" y="145" width="360" height="215" as="geometry" />
+    </mxCell>
+
+    <!-- БЛОК 3: Отсек привода -->
+    <mxCell id="block_motor" value="ШАГОВЫЙ МИКРО-МОТОР ПРИВОДА (типа NEMA 11)&lt;br&gt;[Вращение корпуса на 360° и сброс наледи]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="160" y="155" width="240" height="60" as="geometry" />
+    </mxCell>
+    
+    <!-- БЛОК 4: Акустическая перегородка -->
+    <mxCell id="block_shield" value="ВНУТРЕННЯЯ ЗВУКО-ВИБРОИЗОЛЯЦИОННАЯ ПЕРЕГОРОДКА (2 мм)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeColor=none;fontColor=#FFFFFF;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="102" y="225" width="356" height="20" as="geometry" />
+    </mxCell>
+
+    <!-- БЛОК 5: Приборный отсек - Аккумуляторы по бокам -->
+    <mxCell id="block_bat1" value="АКБ №1&lt;br&gt;Резерв&lt;br&gt;LiFePO4&lt;br&gt;+Подогрев" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=10;fontColor=#333333;" vertex="1" parent="1">
+      <mxGeometry x="110" y="255" width="60" height="90" as="geometry" />
+    </mxCell>
+    <mxCell id="block_bat2" value="АКБ №2&lt;br&gt;Резерв&lt;br&gt;LiFePO4&lt;br&gt;+Подогрев" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=10;fontColor=#333333;" vertex="1" parent="1">
+      <mxGeometry x="390" y="255" width="60" height="90" as="geometry" />
+    </mxCell>
+
+    <!-- БЛОК 6: Приборный отсек - Центральная плата -->
+    <mxCell id="block_mcu" value="ГЛАВНАЯ ПЛАТА ОБРАБОТКИ ДАННЫХ&lt;br&gt;(Микроконтроллер, АЦП, PON-медиаконвертер)&lt;br&gt;&lt;br&gt;[Габариты: 80 х 80 мм]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="185" y="255" width="190" height="75" as="geometry" />
+    </mxCell>
+
+    <!-- БЛОК 7: Нижняя сенсорная панель -->
+    <!-- Микрофоны -->
+    <mxCell id="mic_1" value="MEMS Микрофон 1&lt;br&gt;(Угол фронт)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="110" y="345" width="70" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="mic_2" value="MEMS Микрофон 2&lt;br&gt;(Угол тыл)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="380" y="345" width="70" height="30" as="geometry" />
+    </mxCell>
+    
+    <!-- Метеодатчик -->
+    <mxCell id="sensor_meteo" value="МЕТЕОЧИП&lt;br&gt;(Давление / Температура / Влажность)&lt;br&gt;+ Мембрана Gore-Tex" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="195" y="345" width="170" height="30" as="geometry" />
+    </mxCell>
+    
+  </root>
+</mxGraphModel>
+
